@@ -1,0 +1,82 @@
+.qube-top-section {
+    background-color: grey;
+    padding: 15px;
+}
+
+.qube-name {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.qube-image1 {
+    height: 150px;
+    width: 170px;
+    border-radius: 12px;
+}
+
+.qube-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.qube-bottom-section {
+    background-color: #e6f6ff;
+    height: 500px;
+    padding: 10px;
+}
+
+.sub-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px;
+}
+
+.qube-technology-card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    margin: 5px;
+    height: 124px;
+}
+
+.qube-technology-container {
+    padding: 8px;
+    width: 558px;
+
+}
+
+.qube-image2 {
+    height: 124px;
+    width: 130px;
+    border-radius: 10px;
+}
+
+.qube-technology-card-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.qube-technology-description {
+    color: #888888;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.qube-image3 {
+    height: 120px;
+    width: 130px;
+    padding: 5px;
+    margin-bottom: 8px;
+}
+
+.qube-technology-text-container {
+    width: 146px;
+    margin: 5px;
+    padding: 5px;
+}
